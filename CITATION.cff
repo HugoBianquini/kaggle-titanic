@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Solving and Analyzing Kaggle Machine Learning From
+  Disaster
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hugo
+    family-names: Bianquini
+    email: hugobianquini@id.uff.br
+    affiliation: >-
+      Instituto de Computação - Universidade Federal
+      Fluminense (UFF)
+  - given-names: Savio
+    family-names: Suhett
+    email: saviosuhett@id.uff.br
+    affiliation: >-
+      Instituto de Computação - Universidade Federal
+      Fluminense (UFF)
+license: MIT
